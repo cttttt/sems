@@ -1,0 +1,3 @@
+LDFLAGS=-pthread
+
+default: sem
